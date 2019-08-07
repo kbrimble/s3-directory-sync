@@ -1,7 +1,16 @@
 {
   "name": "s3-directory-sync",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Simple syncing of local directories to S3 buckets",
+  "keywords": [ "s3", "aws", "upload", "sync", "directory", "folder" ],
+  "homepage": "https://github.com/kbrimble/s3-directory-sync",
+  "bugs": {
+    "url": "https://github.com/kbrimble/s3-directory-sync/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kbrimble/s3-directory-sync.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "jest",
